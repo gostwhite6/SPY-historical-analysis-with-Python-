@@ -1,2 +1,4 @@
 # SPY-historical-analysis-with-Python-
-This analysis was created with Python, the data was extract by yfinance with function 'yf.download'.
+This project was developed in Python to analyze the historical performance of the SPY (S&P 500 ETF).
+Market data was retrieved from Yahoo Finance using the yfinance library (yf.download() function).
+
